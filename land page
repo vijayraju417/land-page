@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="third.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Service</h1>
+        <p>Your one-stop solution for all your needs</p>
+        <a href="#contact" class="cta-button">Get Started</a>
+    </header>
+
+    <section id="features">
+        <h2>Features</h2>
+        <div class="feature">
+            <h3>Feature One</h3>
+            <p>AI Eraser, You can eraser anything in background using AI Eraser.</p>
+        </div>
+        <div class="feature">
+            <h3>Feature Two</h3>
+            <p>META AI, AI bot installed in whatsapp used for browsing.</p>
+        </div>
+        <div class="feature">
+            <h3>Feature Three</h3>
+            <p>AI Ask,AI bot is used for any information.</p>
+        </div>
+    </section>
+
+    <section id="testimonials">
+        <h2>What Our Clients Say</h2>
+        <blockquote>
+            <p>"This service changed my life!" - Happy Customer</p>
+        </blockquote>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email:vijayrajukoppala@gmail.com</p>
+        <p>Phone:8008231041</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 TELE COMMUNICATION PRT.LIM</p>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="third.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Service</h1>
+        <p>Your one-stop solution for all your needs</p>
+        <a href="#contact" class="cta-button">Get Started</a>
+    </header>
+
+    <section id="features">
+        <h2>Features</h2>
+        <div class="feature">
+            <h3>Feature One</h3>
+            <p>AI Eraser, You can eraser anything in background using AI Eraser.</p>
+        </div>
+        <div class="feature">
+            <h3>Feature Two</h3>
+            <p>META AI, AI bot installed in whatsapp used for browsing.</p>
+        </div>
+        <div class="feature">
+            <h3>Feature Three</h3>
+            <p>AI Ask,AI bot is used for any information.</p>
+        </div>
+    </section>
+
+    <section id="testimonials">
+        <h2>What Our Clients Say</h2>
+        <blockquote>
+            <p>"This service changed my life!" - Happy Customer</p>
+        </blockquote>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email:vijayrajukoppala@gmail.com</p>
+        <p>Phone:8008231041</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 TELE COMMUNICATION PRT.LIM</p>
+    </footer>
+</body>
+</html>
